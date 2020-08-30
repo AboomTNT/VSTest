@@ -13,6 +13,7 @@ namespace GitTest
             Console.WriteLine("1111");
             Console.WriteLine("2222");
             Console.WriteLine("3333");
+            Console.WriteLine("4444");
         }
     }
 }
